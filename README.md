@@ -82,7 +82,7 @@ Student-Record-System-Python/
 
 **Mohit Gaikwad**
 
-GitHub: https://github.com/mohitgaikwad897
+GitHub: https://github.com/mohitgaikwad897-tech
 
 ---
 
